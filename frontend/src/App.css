@@ -1,10 +1,15 @@
 /* Fondo general */
+*{
+  margin: 0;
+  padding: 0;
+}
+
 .app-container {
   height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(135deg, #e9f1ff, #f8f9fb);
+  background: linear-gradient(135deg, #4572c0, #587fcd);
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
